@@ -7,3 +7,5 @@
 
 ```bash
 cargo build --release
+
+## Запуск
